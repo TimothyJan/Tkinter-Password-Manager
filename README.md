@@ -1,2 +1,2 @@
 # Tkinter-Password-Manager
-Password Manager using Python Tkinter
+Password Manager outputting a txt file with website, email/username and password using Python Tkinter
